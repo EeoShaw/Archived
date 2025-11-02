@@ -1,4 +1,5 @@
 #⚠️⚠️ this game dont have readme file but you could enter 'help' to see the rules
+#🏃🏃：python3 poker_game.py
 
 import random
 
